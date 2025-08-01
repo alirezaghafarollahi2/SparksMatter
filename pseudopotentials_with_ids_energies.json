@@ -1,0 +1,383 @@
+{
+    "i": {
+        "pseudo": "i_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-1525634",
+        "energy_per_atom": -893.2162
+    },
+    "al": {
+        "pseudo": "al_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-134",
+        "energy_per_atom": -91.3302
+    },
+    "as": {
+        "pseudo": "as_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-158",
+        "energy_per_atom": -547.9052
+    },
+    "au": {
+        "pseudo": "au_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-81",
+        "energy_per_atom": -1564.4344
+    },
+    "ba": {
+        "pseudo": "ba_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-122",
+        "energy_per_atom": -956.1907
+    },
+    "bi": {
+        "pseudo": "bi_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-23152",
+        "energy_per_atom": -2520.797
+    },
+    "ca": {
+        "pseudo": "ca_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-45",
+        "energy_per_atom": -1019.3881
+    },
+    "cd": {
+        "pseudo": "cd_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-94",
+        "energy_per_atom": -1560.9661
+    },
+    "hf": {
+        "pseudo": "hf_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-103",
+        "energy_per_atom": -2162.8115
+    },
+    "la": {
+        "pseudo": "la_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-26",
+        "energy_per_atom": -1395.528
+    },
+    "mo": {
+        "pseudo": "mo_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-129",
+        "energy_per_atom": -1895.8773
+    },
+    "nb": {
+        "pseudo": "nb_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-75",
+        "energy_per_atom": -1604.5423
+    },
+    "pb": {
+        "pseudo": "pb_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-20483",
+        "energy_per_atom": -2233.3773
+    },
+    "sc": {
+        "pseudo": "sc_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-67",
+        "energy_per_atom": -1283.3418
+    },
+    "si": {
+        "pseudo": "si_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-149",
+        "energy_per_atom": -130.5612
+    },
+    "sr": {
+        "pseudo": "sr_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-139",
+        "energy_per_atom": -954.3624
+    },
+    "tc": {
+        "pseudo": "tc_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-113",
+        "energy_per_atom": -2371.1623
+    },
+    "te": {
+        "pseudo": "te_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-19",
+        "energy_per_atom": -360.5281
+    },
+    "zn": {
+        "pseudo": "zn_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-79",
+        "energy_per_atom": -6279.7245
+    },
+    "zr": {
+        "pseudo": "zr_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-131",
+        "energy_per_atom": -1349.0372
+    },
+    "f": {
+        "pseudo": "f_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-1525632",
+        "energy_per_atom": -659.3128
+    },
+    "n": {
+        "pseudo": "n_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-154",
+        "energy_per_atom": -274.0311
+    },
+    "o": {
+        "pseudo": "o_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-1524462",
+        "energy_per_atom": -437.2271
+    },
+    "v": {
+        "pseudo": "v_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-146",
+        "energy_per_atom": -1973.786
+    },
+    "w": {
+        "pseudo": "w_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-91",
+        "energy_per_atom": -2165.2925
+    },
+    "y": {
+        "pseudo": "y_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-112",
+        "energy_per_atom": -1262.8302
+    },
+    "ag": {
+        "pseudo": "ag_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-8566",
+        "energy_per_atom": -4022.1426
+    },
+    "be": {
+        "pseudo": "be_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-87",
+        "energy_per_atom": -384.3147
+    },
+    "br": {
+        "pseudo": "br_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-23154",
+        "energy_per_atom": -637.3771
+    },
+    "cl": {
+        "pseudo": "cl_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-22848",
+        "energy_per_atom": -452.9333
+    },
+    "co": {
+        "pseudo": "co_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-102",
+        "energy_per_atom": -4060.8558
+    },
+    "cr": {
+        "pseudo": "cr_pbe_v1.5.uspp.F.UPF",
+        "material_id": "mp-90",
+        "energy_per_atom": -2387.5894
+    },
+    "cu": {
+        "pseudo": "cu_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-30",
+        "energy_per_atom": -5493.6993
+    },
+    "fe": {
+        "pseudo": "fe_pbe_v1.5.uspp.F.UPF",
+        "material_id": "mp-13",
+        "energy_per_atom": -3405.516
+    },
+    "ga": {
+        "pseudo": "ga_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-142",
+        "energy_per_atom": -5651.0337
+    },
+    "ge": {
+        "pseudo": "ge_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-32",
+        "energy_per_atom": -2906.8399
+    },
+    "in": {
+        "pseudo": "in_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-85",
+        "energy_per_atom": -1816.1151
+    },
+    "ir": {
+        "pseudo": "ir_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-101",
+        "energy_per_atom": -2473.2003
+    },
+    "li": {
+        "pseudo": "li_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-1018134",
+        "energy_per_atom": -196.8921
+    },
+    "mg": {
+        "pseudo": "mg_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-153",
+        "energy_per_atom": -1705.0947
+    },
+    "na": {
+        "pseudo": "na_pbe_v1.5.uspp.F.UPF",
+        "material_id": "mp-10172",
+        "energy_per_atom": -1297.2324
+    },
+    "ni": {
+        "pseudo": "ni_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-23",
+        "energy_per_atom": -4670.5299
+    },
+    "os": {
+        "pseudo": "os_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-49",
+        "energy_per_atom": -2701.8072
+    },
+    "pd": {
+        "pseudo": "pd_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-2",
+        "energy_per_atom": -2703.5037
+    },
+    "pt": {
+        "pseudo": "pt_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-126",
+        "energy_per_atom": -2866.778
+    },
+    "re": {
+        "pseudo": "re_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-1186901",
+        "energy_per_atom": -2594.0436
+    },
+    "rh": {
+        "pseudo": "rh_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-74",
+        "energy_per_atom": -2329.2334
+    },
+    "ru": {
+        "pseudo": "ru_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-33",
+        "energy_per_atom": -2643.0117
+    },
+    "sb": {
+        "pseudo": "sb_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-104",
+        "energy_per_atom": -2516.412
+    },
+    "sn": {
+        "pseudo": "sn_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-117",
+        "energy_per_atom": -2166.673
+    },
+    "ti": {
+        "pseudo": "ti_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-72",
+        "energy_per_atom": -1622.4921
+    },
+    "tl": {
+        "pseudo": "tl_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-82",
+        "energy_per_atom": -1972.3836
+    },
+    "b": {
+        "pseudo": "b_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-160",
+        "energy_per_atom": -86.9909
+    },
+    "s": {
+        "pseudo": "s_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-77",
+        "energy_per_atom": -327.8512
+    },
+    "hg": {
+        "pseudo": "hg_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-10861",
+        "energy_per_atom": -1466.4125
+    },
+    "cs": {
+        "pseudo": "cs_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-1055940",
+        "energy_per_atom": -858.0402
+    },
+    "se": {
+        "pseudo": "se_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-14",
+        "energy_per_atom": -593.239
+    },
+    "ta": {
+        "pseudo": "ta_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-50",
+        "energy_per_atom": -1930.3359
+    },
+    "c": {
+        "pseudo": "c_pbe_v1.2.uspp.F.UPF",
+        "material_id": "mp-48",
+        "energy_per_atom": -156.3179
+    },
+    "h": {
+        "pseudo": "h_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-24504",
+        "energy_per_atom": -15.8568
+    },
+    "k": {
+        "pseudo": "k_pbe_v1.4.uspp.F.UPF",
+        "material_id": "mp-10157",
+        "energy_per_atom": -775.3851
+    },
+    "mn": {
+        "pseudo": "mn_pbe_v1.5.uspp.F.UPF",
+        "material_id": "mp-35"
+    },
+    "rb": {
+        "pseudo": "rb_pbe_v1.uspp.F.UPF",
+        "material_id": "mp-639755"
+    },
+    "p": {
+        "pseudo": "p_pbe_v1.5.uspp.F.UPF",
+        "material_id": "mp-157"
+    },
+    "u": {
+        "pseudo": "",
+        "material_id": "mp-44"
+    },
+    "th": {
+        "pseudo": "",
+        "material_id": "mp-37"
+    },
+    "sm": {
+        "pseudo": "",
+        "material_id": "mp-69"
+    },
+    "ce": {
+        "pseudo": "",
+        "material_id": "mp-28"
+    },
+    "dy": {
+        "pseudo": "",
+        "material_id": "mp-88"
+    },
+    "gd": {
+        "pseudo": "",
+        "material_id": "mp-155"
+    },
+    "pr": {
+        "pseudo": "",
+        "material_id": "mp-97"
+    },
+    "nd": {
+        "pseudo": "",
+        "material_id": "mp-123"
+    },
+    "er": {
+        "pseudo": "",
+        "material_id": "mp-99"
+    },
+    "tm": {
+        "pseudo": "",
+        "material_id": "mp-143"
+    },
+    "tb": {
+        "pseudo": "",
+        "material_id": "mp-18"
+    },
+    "ac": {
+        "pseudo": "",
+        "material_id": "mp-862690"
+    },
+    "eb": {
+        "pseudo": "",
+        "material_id": "mp-21462"
+    },
+    "ho": {
+        "pseudo": "",
+        "material_id": "mp-144"
+    },
+    "lu": {
+        "pseudo": "",
+        "material_id": "mp-973571"
+    },
+    "eu": {
+        "pseudo": "",
+        "material_id": "mp-21462"
+    }
+}
